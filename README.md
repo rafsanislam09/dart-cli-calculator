@@ -1,2 +1,2 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+1. To run, run `dart run`. 
+2. To build, run `dart compile exe bin/dart_cli_calculator.dart -o bin/dart_cli_calculator.exe` (for Windows) or `dart compile exe bin/dart_cli_calculator.dart -o bin/dart_cli_calculator` (for Linux and macOS).
